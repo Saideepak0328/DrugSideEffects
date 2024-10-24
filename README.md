@@ -7,8 +7,11 @@ In the output folder of the dataset, you can find some example files. They are n
 # Paper
 
 This project was published on the IEEE/ACM Transactions on Computational Biology and Bioinformatics.
+
 You can find the paper here: https://ieeexplore.ieee.org/abstract/document/9775571
+
 If you use this work for any public project, please cite:
+
 P. Bongini, F. Scarselli, M. Bianchini, G. M. Dimitri, N. Pancino and P. Lió, "Modular Multi–Source Prediction of Drug Side–Effects With DruGNN," in IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol. 20, no. 2, pp. 1211-1220, 1 March-April 2023, doi: 10.1109/TCBB.2022.3175362
 
 # Dependencies
