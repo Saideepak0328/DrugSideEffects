@@ -4,6 +4,13 @@ This project aims at predicting side effects of drugs based on their chemical an
 
 In the output folder of the dataset, you can find some example files. They are named Soglia_X and correspond to outputs obtained on different versions of the dataset. Each of this versions is obtained with a different threshold on the minimum frequency of side-effects. A file named Soglia_X is always obtained by considering only the side effects which are associated to at least X drugs in SIDER. For instance, Soglia_50 is obtained by considering only side-effects that are associated to at least 50 drugs in SIDER.
 
+# Paper
+
+This project was published on the IEEE/ACM Transactions on Computational Biology and Bioinformatics.
+You can find the paper here: https://ieeexplore.ieee.org/abstract/document/9775571
+If you use this work for any public project, please cite:
+P. Bongini, F. Scarselli, M. Bianchini, G. M. Dimitri, N. Pancino and P. Lió, "Modular Multi–Source Prediction of Drug Side–Effects With DruGNN," in IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol. 20, no. 2, pp. 1211-1220, 1 March-April 2023, doi: 10.1109/TCBB.2022.3175362
+
 # Dependencies
 
 * Graph Neural Networks are implemented with the GNN software described here: 
